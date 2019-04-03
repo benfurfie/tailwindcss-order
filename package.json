@@ -6,5 +6,16 @@
   "repository": "https://github.com/benfurfie/tailwindcss-order.git",
   "author": "Ben Furfie <hello@benfurfie.co.uk>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "keywords": [
+    "tailwindcss",
+    "tailwind css",
+    "order",
+    "flex",
+    "flexbox",
+    "flex box",
+    "grid",
+    "cssgrid",
+    "css grid"
+  ]
 }
