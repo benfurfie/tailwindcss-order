@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-order",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for TailwindCSS that allows you to define the order of flex and grid CSS elements.",
   "main": "index.js",
   "repository": "https://github.com/benfurfie/tailwindcss-order.git",
